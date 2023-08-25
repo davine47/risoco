@@ -4,6 +4,8 @@ target/
 project/target
 docs/generated
 docs-target/
+*.bsp
+*.properties
 *.fir
 *.v
 *.anno.json
