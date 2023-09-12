@@ -30,6 +30,7 @@ object Generator {
 }
 
 object TestMain extends App {
+  // TODO: re-write these codes to support main paramters
   var firOpts = Array[String]("-td", "build")
   println("Begin generate hardwares.....")
   Generator.execute(firOpts, new Hello, ScalaFC, Array.empty)

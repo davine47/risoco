@@ -18,3 +18,4 @@ docs-target/
 rocketchip.jar
 *#
 .#*
+/mill.bat

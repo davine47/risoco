@@ -5,7 +5,7 @@ import publish._
 import coursier.maven.MavenRepository
 
 object ivys {
-  val sv = "2.12.13"
+  val sv = "2.12.11"
   val chisel3 = ivy"edu.berkeley.cs::chisel3:3.6.0"
   val chisel3Plugin = ivy"edu.berkeley.cs:::chisel3-plugin:3.6.0"
   val chiseltest = ivy"edu.berkeley.cs::chiseltest:0.5.2"
